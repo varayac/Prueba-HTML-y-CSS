@@ -1,0 +1,38 @@
+.container-img img {
+  box-sizing: content-box;
+  width: 600px;
+  height: 300px;
+
+}
+
+img {
+  width: 100%;
+}
+
+body {
+  margin-top: 70px; auto;
+}
+
+img.logo {
+  width: 150px;
+}
+
+img .imgg{
+  width: 100%;
+}
+
+.filas {
+  border-bottom: 1px solid #e8e8e8;
+  margin: 20px;
+  padding: 0 auto;
+}
+
+footer.footer {
+  background-color:#102542;
+  color: #e8e8e8;
+  padding-top: 20px;
+}
+
+ ul.redes li.so {
+  display: inline;
+}
